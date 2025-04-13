@@ -1,0 +1,13 @@
+{
+  "name": "auto-deploy",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node deploy.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.5",
+    "solc": "^0.8.29"
+  }
+}
