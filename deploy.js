@@ -212,3 +212,4 @@ mainLoop().catch(err => {
 
 // Render the screen initially
 screen.render();
+
